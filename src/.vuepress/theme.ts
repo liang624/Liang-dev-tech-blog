@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "liang-blog",
+  repo: "liang624/Liang-dev-tech-blog",
 
   docsDir: "src",
 

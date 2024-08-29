@@ -7,8 +7,8 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 我的博客简历
-tagline: 您好，我是小梁。在这里我会分享编程知识，大家共同进步！
+heroText: 我的博客
+tagline: 您好，我是小梁，在读研究生。在这里我会分享编程知识，希望大家共同进步！
 actions:
   - text: 查看简历 👣
     link: ./md/
@@ -50,4 +50,4 @@ actions:
 <br/>
 
 
->我是一名热爱技术的Java程序员，自从踏入这个充满挑战与机遇的专业以来，我始终保持着对技术的高度热情和追求。我深信技术的力量可以改变世界，也能够提升个人的专业素养。在日常工作中，我不仅注重个人技能的提升，更致力于跟踪和学习行业内的最新技术动态，如SpringBoot、微服务架构、容器化技术等，以确保自己的技术栈始终保持现代化和竞争力。
+>我是一名热爱技术的Java程序员，自从踏入这个充满挑战与机遇的专业以来，我始终保持着对技术的高度热情和追求。我深信技术的力量可以改变世界，也能够提升个人的专业素养。在日常生活中，我不仅注重个人技能的提升，更致力于跟踪和学习行业内的最新技术动态，以确保自己的技术栈始终保持现代化和竞争力。
