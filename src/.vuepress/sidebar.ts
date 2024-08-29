@@ -11,6 +11,7 @@ export default sidebar({
         {
           text: "深入模块分析",
           icon: "laptop-code",
+          prefix: "fenzhi/",
           children: [
             "day11.md",
             "day12.md",
