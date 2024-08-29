@@ -6,7 +6,7 @@ export default hopeTheme({
   // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "心在远方",
+    name: "小梁Blog",
     url: "",
   },
 

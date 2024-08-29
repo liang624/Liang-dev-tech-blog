@@ -11,10 +11,10 @@ export const pagesRoutes = [
   ["v-c97ab98e","/md/dev-log/day09~day10.html",{"y":"a","t":"Day09 ~ Day10","i":"laptop-code","I":0},[":md"]],
   ["v-7c27fd02","/md/dev-log/",{"y":"a","t":"开发日志","i":"laptop-code"},["/md/dev-log/README.md"]],
   ["v-06442f8c","/md/test/day01.html",{"y":"a","t":"Day01","i":"laptop-code","I":0},[":md"]],
-  ["v-123e3d5e","/md/test/",{"y":"a","t":"测试日志","i":"laptop-code"},["/md/test/README.md"]],
+  ["v-123e3d5e","/md/test/",{"y":"a","t":"技术学习","i":"laptop-code"},["/md/test/README.md"]],
   ["v-1c12efbe","/md/dev-log/fenzhi/day11.html",{"y":"a","t":"Day011","i":"laptop-code","I":0},[":md"]],
   ["v-1dc7c85d","/md/dev-log/fenzhi/day12.html",{"y":"a","t":"Day012","i":"laptop-code","I":0},[":md"]],
+  ["v-0d201d3e","/md/dev-log/fenzhi/",{"y":"a","t":"组件开发","i":"laptop-code"},["/md/dev-log/fenzhi/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-2d0aa3df","/md/",{"y":"p","t":"Md"},[]],
-  ["v-0d201d3e","/md/dev-log/fenzhi/",{"y":"p","t":"Fenzhi"},[]],
 ]
