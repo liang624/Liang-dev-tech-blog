@@ -11,7 +11,6 @@ export default sidebar({
         {
           text: "深入模块分析",
           icon: "laptop-code",
-          prefix: "md/dev-log/",
           children: [
             "day11.md",
             "day12.md",
