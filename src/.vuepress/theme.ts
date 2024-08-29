@@ -3,18 +3,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "小傅哥",
-    url: "https://mister-hope.com",
+    name: "心在远方",
+    url: "",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
-  repo: "fuzhengwei/xfg-resume-blog",
+  repo: "liang-blog",
 
   docsDir: "src",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "我的微信：fustack",
+  // footer: "我的微信：fustack",
 
   displayFooter: true,
 
