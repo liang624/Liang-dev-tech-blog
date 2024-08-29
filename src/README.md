@@ -7,11 +7,11 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 我的博客
+heroText: 博客简介
 tagline: 您好，我是小梁，在读研究生。在这里我会分享编程知识，希望大家共同进步！
 actions:
-  - text: 查看简历 👣
-    link: ./md/
+  - text: 技术学习 👣
+    link: ./md/dev-log
     type: primary
 
   - text: 我的项目 💐
